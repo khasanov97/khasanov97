@@ -8,14 +8,14 @@ Key Features of Wireshark:
 * Network Troubleshooting – Identifies issues such as slow network performance, packet loss, and misconfigurations.
 * Security Analysis – Helps detect potential cyber threats like unauthorized connections, suspicious traffic, or network intrusions.
 * Export & Reporting – Saves captured data for later analysis or reporting.
-# Common Use Cases:
+## Common Use Cases:
 * Detecting malicious network activity (e.g., suspicious packets, malware communication).
 * Troubleshooting slow network performance (e.g., identifying bottlenecks, retransmissions).
 * Analyzing Wi-Fi traffic (e.g., monitoring open networks, troubleshooting connections).
 * Inspecting encrypted traffic (with proper decryption keys).
 Since Wireshark captures raw network traffic, it should be used ethically and legally, ensuring you have permission to analyze the network.
 
-# Analyze Your First Packet 
+## Analyze Your First Packet 
 
 ## Scenario
 
